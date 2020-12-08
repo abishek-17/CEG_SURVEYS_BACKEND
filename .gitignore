@@ -1,0 +1,6 @@
+node_modules
+test.js
+
+
+# Ignore IDE specific files
+.vscode/

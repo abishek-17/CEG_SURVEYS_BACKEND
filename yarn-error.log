@@ -1,0 +1,31 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\yarn\bin\yarn.js init
+
+PATH: 
+  C:\Users\rashi\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\rashi\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Java\jdk1.8.0_241\bin;C:\Users\rashi\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Users\rashi\.windows-build-tools\python27;C:\Users\rashi\AppData\Local\Microsoft\WindowsApps;C:\Users\rashi\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\rashi\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\tools\dart-sdk\bin;C:\Users\rashi\AppData\Roaming\Pub\Cache\bin;C:\flutter\bin;C:\Users\rashi\AppData\Local\Android\Sdk\tools;C:\Users\rashi\AppData\Local\Android\Sdk\platform-tools;C:\Gradle\gradle-6.5.1\bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
+
+Yarn version: 
+  1.22.0
+
+Node version: 
+  12.16.1
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: Can't answer a question unless a user TTY
+      at ConsoleReporter.question (C:\Users\rashi\AppData\Roaming\nvm\v12.16.1\node_modules\yarn\lib\cli.js:96783:59)
+      at Object.<anonymous> (C:\Users\rashi\AppData\Roaming\nvm\v12.16.1\node_modules\yarn\lib\cli.js:89063:38)
+      at Generator.next (<anonymous>)
+      at step (C:\Users\rashi\AppData\Roaming\nvm\v12.16.1\node_modules\yarn\lib\cli.js:310:30)
+      at C:\Users\rashi\AppData\Roaming\nvm\v12.16.1\node_modules\yarn\lib\cli.js:321:13
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
